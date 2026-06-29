@@ -1,7 +1,7 @@
 # Thermax-PID-Automation
 AI-assisted PID Automation and Machine Learning Framework for Biomass Pyrolysis Process Optimization
 ## Objective
-This project develops a machine learning and optimization workflow for chemical process automation, focusing on P&ID automation, biomass pyrolysis, product yield prediction, and multi-objective optimization.
+This project develops a machine learning and optimization workflow for chemical process automation, focusing on P&ID automation, biomass pyrolysis, product yield prediction, and multi-objective optimization.Pyrolysis is a thermochemical conversion process used for the production of biofuels such as biochar, bio-oil, and syngas. The quality and yield of products obtained during biomass pyrolysis are dependent on several factors, such as biomass composition (proximate and ultimate analysis) and reaction conditions (temperature, heating rate, time). Therefore, it is imperative to understand the relationship between biomass composition, reaction conditions, and product yield during biomass pyrolysis.
 
 ## Key Features
 - Data preprocessing for biomass/process datasets
